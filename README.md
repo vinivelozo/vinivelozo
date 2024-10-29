@@ -10,7 +10,7 @@
  
  🔭 I’m currently a **Student at Champlain College**
  
- 🌱 I’m currently learning **Micro-services, React.js, java ...**
+ 🌱 I’m currently learning **Microservices architecture, React.js, java ...**
 
  </div>
  
